@@ -278,6 +278,7 @@ h6 {
 	color: #fff; 
 }
 #intro .container {
+	background: url('dangpooka.github.io/images/intro-background.jpg'); 
 	text:center;
 	width: 100%;
 	padding: 80px;
